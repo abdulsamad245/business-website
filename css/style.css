@@ -1953,6 +1953,9 @@ ul.bottom_menu li {
 .top-header.fixed-menu .search-btn {
 	background: #111;
 }
+a.search-btn > img {
+    width: 20px;
+}
 
 .top-header.fixed-menu .search-btn img {
     width: 25px;
