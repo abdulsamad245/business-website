@@ -1961,6 +1961,10 @@ a.search-btn > img {
     width: 25px;
 }
 
+.full.icon > img {
+	width: 20px;
+}
+
 .top-header.fixed-menu .search-box:hover .search-txt {
 	width: 240px;
 	padding: 0 10px;
